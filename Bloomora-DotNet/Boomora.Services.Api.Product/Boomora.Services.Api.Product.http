@@ -1,0 +1,6 @@
+@Boomora.Services.Api.Product_HostAddress = http://localhost:5286
+
+GET {{Boomora.Services.Api.Product_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
