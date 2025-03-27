@@ -1,0 +1,18 @@
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\Bloomora.Services.Product.Infrustructure.deps.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\Bloomora.Services.Product.Infrustructure.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\Bloomora.Services.Product.Infrustructure.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\Bloomora.Services.Product.Application.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\• Bloomora.Services.Product.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\Bloomora.Services.Product.Application.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\bin\Debug\net9.0\• Bloomora.Services.Product.Domain.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.csproj.AssemblyReference.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.AssemblyInfoInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.AssemblyInfo.cs
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.sourcelink.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.3090C03D.Up2Date
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\refint\Bloomora.Services.Product.Infrustructure.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\Bloomora.Services.Product.Infrustructure.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Product.Infrustructure\obj\Debug\net9.0\ref\Bloomora.Services.Product.Infrustructure.dll

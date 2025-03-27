@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y1YdGJ5T1+W6enDPij5OJOgJzreWURCDgBf1VNe3qtA=",
+  "Source": "Bloomora.Services.Auth.Api",
+  "BasePath": "_content/Bloomora.Services.Auth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

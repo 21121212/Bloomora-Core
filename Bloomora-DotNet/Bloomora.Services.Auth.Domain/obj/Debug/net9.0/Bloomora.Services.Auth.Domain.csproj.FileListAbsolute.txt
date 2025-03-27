@@ -1,0 +1,12 @@
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\bin\Debug\net9.0\Bloomora.Services.Auth.Domain.deps.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\bin\Debug\net9.0\Bloomora.Services.Auth.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\bin\Debug\net9.0\Bloomora.Services.Auth.Domain.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.AssemblyInfoInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.AssemblyInfo.cs
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.csproj.CoreCompileInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.sourcelink.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\refint\Bloomora.Services.Auth.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\Bloomora.Services.Auth.Domain.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Domain\obj\Debug\net9.0\ref\Bloomora.Services.Auth.Domain.dll

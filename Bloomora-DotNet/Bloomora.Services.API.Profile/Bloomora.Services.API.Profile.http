@@ -1,6 +1,0 @@
-@Bloomora.Services.API.Profile_HostAddress = http://localhost:5260
-
-GET {{Bloomora.Services.API.Profile_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

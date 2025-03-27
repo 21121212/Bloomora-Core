@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bloomora.Services.Product.Api.props" />
+</Project>

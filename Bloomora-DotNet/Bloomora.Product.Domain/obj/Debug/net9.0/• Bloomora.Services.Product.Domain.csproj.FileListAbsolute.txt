@@ -1,0 +1,12 @@
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\bin\Debug\net9.0\• Bloomora.Services.Product.Domain.deps.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\bin\Debug\net9.0\• Bloomora.Services.Product.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\bin\Debug\net9.0\• Bloomora.Services.Product.Domain.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.AssemblyInfoInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.AssemblyInfo.cs
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.csproj.CoreCompileInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.sourcelink.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\refint\• Bloomora.Services.Product.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\• Bloomora.Services.Product.Domain.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Product.Domain\obj\Debug\net9.0\ref\• Bloomora.Services.Product.Domain.dll

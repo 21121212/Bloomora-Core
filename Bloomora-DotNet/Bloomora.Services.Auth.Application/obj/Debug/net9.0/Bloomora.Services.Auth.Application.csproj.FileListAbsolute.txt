@@ -1,0 +1,16 @@
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\bin\Debug\net9.0\Bloomora.Services.Auth.Application.deps.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\bin\Debug\net9.0\Bloomora.Services.Auth.Application.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\bin\Debug\net9.0\Bloomora.Services.Auth.Application.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\bin\Debug\net9.0\Bloomora.Services.Auth.Domain.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\bin\Debug\net9.0\Bloomora.Services.Auth.Domain.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.csproj.AssemblyReference.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.AssemblyInfoInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.AssemblyInfo.cs
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.csproj.CoreCompileInputs.cache
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.sourcelink.json
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.DBDC0D72.Up2Date
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\refint\Bloomora.Services.Auth.Application.dll
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\Bloomora.Services.Auth.Application.pdb
+C:\Bloomora\Bloomora-Core\Bloomora-DotNet\Bloomora.Services.Auth.Application\obj\Debug\net9.0\ref\Bloomora.Services.Auth.Application.dll

@@ -1,0 +1,6 @@
+@Bloomora.Services.Api.Auth_HostAddress = http://localhost:5174
+
+GET {{Bloomora.Services.Api.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,11 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Api.Product", "Boomora.Services.Api.Product\Bloomora.Services.Api.Product.csproj", "{36E3C1BA-D3D9-4C4F-87B8-E8C124D5FC73}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Product Service", "Product Service", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Api.Profile", "Bloomora.Services.API.Profile\Bloomora.Services.Api.Profile.csproj", "{956557B8-CB55-41DA-ACA6-657BEC411479}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Auth Service", "Auth Service", "{7F55176C-E0E1-418E-AF8A-D9F6F7E72FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Product.Api", "Bloomora.Services.Api.Product\Bloomora.Services.Product.Api.csproj", "{38F975D6-0F11-40E9-9E7A-53C18F99FEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Auth.Api", "Bloomora.Services.Api.Auth\Bloomora.Services.Auth.Api.csproj", "{FF6FD4D0-031E-4226-9392-F42B3E95F9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "• Bloomora.Services.Product.Domain", "Bloomora.Product.Domain\• Bloomora.Services.Product.Domain.csproj", "{03C1D66E-760F-4F58-A725-78D4C4D5B2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Product.Application", "Bloomora.Services.Product.Application\Bloomora.Services.Product.Application.csproj", "{9A86CDC9-FE47-465B-B5A5-E76397163CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Product.Infrustructure", "Bloomora.Services.Product.Infrustructure\Bloomora.Services.Product.Infrustructure.csproj", "{DF69237B-0806-4B25-A223-F116B3CD59FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Auth.Application", "Bloomora.Services.Auth.Application\Bloomora.Services.Auth.Application.csproj", "{2B17479F-3C03-42DF-8789-05FA86A6C2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Auth.Domain", "Bloomora.Services.Auth.Domain\Bloomora.Services.Auth.Domain.csproj", "{C81F7765-A4D6-4A82-9C2E-CF4A84A80DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloomora.Services.Auth.Infrustructure", "Bloomora.Services.Auth.Infrustructure\Bloomora.Services.Auth.Infrustructure.csproj", "{03DBF307-84B6-4596-85A8-3BBF74AB61DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,17 +29,51 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36E3C1BA-D3D9-4C4F-87B8-E8C124D5FC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36E3C1BA-D3D9-4C4F-87B8-E8C124D5FC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36E3C1BA-D3D9-4C4F-87B8-E8C124D5FC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36E3C1BA-D3D9-4C4F-87B8-E8C124D5FC73}.Release|Any CPU.Build.0 = Release|Any CPU
-		{956557B8-CB55-41DA-ACA6-657BEC411479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{956557B8-CB55-41DA-ACA6-657BEC411479}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{956557B8-CB55-41DA-ACA6-657BEC411479}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{956557B8-CB55-41DA-ACA6-657BEC411479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F975D6-0F11-40E9-9E7A-53C18F99FEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F975D6-0F11-40E9-9E7A-53C18F99FEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F975D6-0F11-40E9-9E7A-53C18F99FEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F975D6-0F11-40E9-9E7A-53C18F99FEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6FD4D0-031E-4226-9392-F42B3E95F9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6FD4D0-031E-4226-9392-F42B3E95F9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6FD4D0-031E-4226-9392-F42B3E95F9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6FD4D0-031E-4226-9392-F42B3E95F9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C1D66E-760F-4F58-A725-78D4C4D5B2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C1D66E-760F-4F58-A725-78D4C4D5B2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C1D66E-760F-4F58-A725-78D4C4D5B2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C1D66E-760F-4F58-A725-78D4C4D5B2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A86CDC9-FE47-465B-B5A5-E76397163CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A86CDC9-FE47-465B-B5A5-E76397163CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A86CDC9-FE47-465B-B5A5-E76397163CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A86CDC9-FE47-465B-B5A5-E76397163CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF69237B-0806-4B25-A223-F116B3CD59FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF69237B-0806-4B25-A223-F116B3CD59FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF69237B-0806-4B25-A223-F116B3CD59FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF69237B-0806-4B25-A223-F116B3CD59FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B17479F-3C03-42DF-8789-05FA86A6C2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B17479F-3C03-42DF-8789-05FA86A6C2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B17479F-3C03-42DF-8789-05FA86A6C2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B17479F-3C03-42DF-8789-05FA86A6C2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81F7765-A4D6-4A82-9C2E-CF4A84A80DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81F7765-A4D6-4A82-9C2E-CF4A84A80DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81F7765-A4D6-4A82-9C2E-CF4A84A80DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81F7765-A4D6-4A82-9C2E-CF4A84A80DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DBF307-84B6-4596-85A8-3BBF74AB61DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DBF307-84B6-4596-85A8-3BBF74AB61DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DBF307-84B6-4596-85A8-3BBF74AB61DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DBF307-84B6-4596-85A8-3BBF74AB61DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38F975D6-0F11-40E9-9E7A-53C18F99FEB1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{FF6FD4D0-031E-4226-9392-F42B3E95F9E0} = {7F55176C-E0E1-418E-AF8A-D9F6F7E72FA2}
+		{03C1D66E-760F-4F58-A725-78D4C4D5B2FC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9A86CDC9-FE47-465B-B5A5-E76397163CA3} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{DF69237B-0806-4B25-A223-F116B3CD59FB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2B17479F-3C03-42DF-8789-05FA86A6C2D6} = {7F55176C-E0E1-418E-AF8A-D9F6F7E72FA2}
+		{C81F7765-A4D6-4A82-9C2E-CF4A84A80DCB} = {7F55176C-E0E1-418E-AF8A-D9F6F7E72FA2}
+		{03DBF307-84B6-4596-85A8-3BBF74AB61DE} = {7F55176C-E0E1-418E-AF8A-D9F6F7E72FA2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B9078CD-D1C7-4C8C-8990-CBF14ED4D413}

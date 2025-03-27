@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KHZby4wP49+S9X4CrUeWhypAkk2U1QKjwXxmJlYItPo=",
+  "Source": "Bloomora.Services.Product.Api",
+  "BasePath": "_content/Bloomora.Services.Product.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
